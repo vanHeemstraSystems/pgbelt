@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+pgbelt
+# PgBelt
 
-Based on "ABC" at https://www.abc.com/
+Based on "PgBelt" at https://github.com/Autodesk/pgbelt
 
 ## 100 - Introduction
 
