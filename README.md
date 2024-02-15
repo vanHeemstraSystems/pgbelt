@@ -1,5 +1,5 @@
 pgbelt
-# PgBelt
+# PgBelt - a CLI tool used to manage Postgres data migrations
 
 Based on "PgBelt" at https://github.com/Autodesk/pgbelt
 
